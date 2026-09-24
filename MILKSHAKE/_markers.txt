@@ -1,0 +1,16 @@
+early_game_intro_entry 0
+early_game_intro_play_at -5670
+early_game_intro_exit 93841
+early_game_entry 0
+early_game_exit 344000
+early_game_segment_1_play_at -7861
+early_game_segment_2_play_at 164000
+mid_game_entry 461
+mid_game_play_at -2307
+mid_game_exit 144461
+late_game_intro_entry 281
+late_game_intro_play_at -2812
+late_game_intro_exit 12281
+late_game_entry 187
+late_game_play_at -187
+late_game_exit 	220687
