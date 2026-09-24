@@ -1,0 +1,8 @@
+early_game_intro_entry 882
+early_game_intro_exit 87549
+early_game_entry 3750
+early_game_exit 176250
+mid_game_entry 1764
+mid_game_exit 181764
+late_game_entry 1764
+late_game_exit 245294
