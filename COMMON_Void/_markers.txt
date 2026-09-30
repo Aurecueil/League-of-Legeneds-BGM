@@ -1,0 +1,8 @@
+river_entry 3750
+river_exit 105000
+river_horde_entry 3750
+river_horde_exit 116250
+river_herald_entry 3750
+river_herald_exit 123750
+river_baron_entry 3750
+river_baron_exit 161250

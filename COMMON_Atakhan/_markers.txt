@@ -1,0 +1,6 @@
+intro_entry 3037
+intro_exit 12150
+loop_entry 759
+loop_exit 170886
+combat_entry 2856
+combat_exit 119999
